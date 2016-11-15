@@ -1,2 +1,4 @@
 Einkaufsliste:
 3 gelbe Bananen
+
+400g Mehl
