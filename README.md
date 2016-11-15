@@ -7,4 +7,4 @@ Furtwangen 78120                         			 @twitter_handle
 Furtwangen                           					 015689782987988
 ------------------- 		--------------------------------------
 
-![Super-Smiley](https://github.com/heidenre/Einkaufsliste/blob/master/Unbenannt.jpg"Unbenannt.jpg")
+![Super-Smiley](Unbenannt.jpg "Unbenannt.jpg")
